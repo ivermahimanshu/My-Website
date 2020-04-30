@@ -1,0 +1,14 @@
+body{
+    background: url("https://images.pexels.com/photos/123335/pexels-photo-123335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    no-repeat center center fixed;
+    background-size:cover;
+    font : "font-family: 'B612', sans-serif;"
+}
+
+.center{
+    text-align: left;
+    color: white;
+    font-size: 2em;
+    padding-top: 5%;
+
+}

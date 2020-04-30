@@ -1,0 +1,14 @@
+body{
+    background: url("https://images.unsplash.com/photo-1527792492728-08d07d011113?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1950&amp;q=80")
+    no-repeat center center fixed;
+    background-size:cover;
+    font : "font-family: 'B612', sans-serif;"
+}
+
+.center{
+    text-align: center;
+    color: lightblue;
+    font-size: 2em;
+    padding-top: 5%;
+    
+}
